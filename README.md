@@ -14,7 +14,7 @@ A simple Weather App built using HTML, CSS, and JavaScript that fetches real-tim
 - **HTML** - Structure of the application.
 - **CSS** - Styling for a user-friendly interface.
 - **JavaScript** - Handles API requests and DOM manipulation.
-- **OpenWeatherMap API** - Provides real-time weather data.
+- **Weather API** - Provides real-time weather data.
 
 ## Installation & Setup
 
@@ -30,7 +30,7 @@ A simple Weather App built using HTML, CSS, and JavaScript that fetches real-tim
 
 ## API Key Setup
 
-1. Sign up at [OpenWeatherMap](https://openweathermap.org/) and get a free API key.
+1. Sign up at [WeatherApi](https://www.weatherapi.com/) and get a free API key.
 2. Replace `YOUR_API_KEY` in `script.js` with your actual API key:
    ```javascript
    const apiKey = "YOUR_API_KEY";
