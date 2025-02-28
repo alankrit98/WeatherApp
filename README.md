@@ -39,7 +39,7 @@ A simple Weather App built using HTML, CSS, and JavaScript that fetches real-tim
 ## Usage
 
 1. Enter a city name in the search box.
-2. Click the search button.
+2. Click the Get Weather button.
 3. View the weather details for the entered city.
 
 ## Screenshots
